@@ -1,6 +1,6 @@
 a = int(input())
-def reverse (a):
-    b=str(a)[::-1]
+def reverse (c):
+    b=str(c)[::-1]
     return int(b)
 
-print(reverse(a))
+print(reverse(c))
